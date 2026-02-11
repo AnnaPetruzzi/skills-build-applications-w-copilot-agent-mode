@@ -1,3 +1,4 @@
+# Populate the octofit_db database with test data
 from django.core.management.base import BaseCommand
 from octofit_tracker.models import User  # Adjust import as needed for your models
 
